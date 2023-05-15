@@ -8,7 +8,6 @@ app版本更新
 
 allprojects {
     repositories {
-        ...
         maven { url 'https://jitpack.io' }
     }
 }
